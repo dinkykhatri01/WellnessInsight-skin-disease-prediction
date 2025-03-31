@@ -1,0 +1,1 @@
+# WellnessInsight-skin-disease-prediction
